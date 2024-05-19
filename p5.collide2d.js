@@ -7,7 +7,7 @@ CC BY-NC-SA 4.0
 */
 
 
-console.log("### p5.collide v0.7.3 ###")
+console.log("Prof.Rafael")
 
 p5.prototype._collideDebug = false;
 
