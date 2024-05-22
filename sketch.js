@@ -31,7 +31,7 @@ let trilha;
 let colidiu = false;
 
 function setup() {
-  createCanvas(600, 400);
+  createCanvas(1000, 1200);
     trilha.loop();
 }
 
